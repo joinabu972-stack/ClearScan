@@ -1,0 +1,6 @@
+{
+  "name": "ClearScan",
+  "description": "Modern document scanner app with high-clarity filters, multi-page scan, PDF export, and smart organization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
